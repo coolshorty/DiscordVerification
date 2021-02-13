@@ -1,10 +1,10 @@
 // Discord info
-const discord_bot_token = '';
-const discord_guild_id = '';
-const discord_verified_role = '';
+const discord_bot_token = 'ODEwMDM5NDY4MDQzOTI3NTYy.YCd2Cg.4xJFmn4oFGWG2IO1L7zlWB8zn-A';
+const discord_guild_id = '806910868959920179';
+const discord_verified_role = 'Verified';
 
 // reCAPTCHA v2 secret key
-const recaptcha_secret_key = '';
+const recaptcha_secret_key = 'HkUEbe';
 
 // Domain
 const domain = ''; // Leave empty for localhost
